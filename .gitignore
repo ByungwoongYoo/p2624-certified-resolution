@@ -1,0 +1,14 @@
+# Large proof-tree artifacts are distributed through the GitHub Release.
+certificates/
+*.tree
+P2624_certified_resolution.zip
+
+# Local verification outputs.
+__pycache__/
+*.pyc
+check_lift_tree
+check_lift_tree.exe
+verify_quotient_catalog
+verify_quotient_catalog.exe
+independent_lift_check
+independent_lift_check.exe

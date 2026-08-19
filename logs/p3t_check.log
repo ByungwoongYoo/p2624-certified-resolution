@@ -1,0 +1,6 @@
+c verified config=10/49 nodes=2254460 sec=1.30112
+c verified config=20/49 nodes=4682070 sec=2.84509
+c verified config=30/49 nodes=6502080 sec=3.90511
+c verified config=40/49 nodes=8591115 sec=5.02753
+c verified config=49/49 nodes=10177494 sec=5.86789
+TIME=5.87 RSS=3964

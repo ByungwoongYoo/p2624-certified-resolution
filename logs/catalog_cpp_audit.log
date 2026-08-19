@@ -1,0 +1,14 @@
+PASS type=p0 raw_valid=5100 affine_orbits=39 dfs_nodes=119604 seconds=0.0490853
+TIME type=p0 wall=0.05 maxrss_kb=3796 exit=0
+PASS type=p1 raw_valid=19860 affine_orbits=133 dfs_nodes=2035446 seconds=0.379553
+TIME type=p1 wall=0.39 maxrss_kb=3820 exit=0
+PASS type=p2 raw_valid=52680 affine_orbits=344 dfs_nodes=10540311 seconds=1.48647
+TIME type=p2 wall=1.50 maxrss_kb=3820 exit=0
+PASS type=p3d raw_valid=59760 affine_orbits=387 dfs_nodes=23544276 seconds=2.74521
+TIME type=p3d wall=2.75 maxrss_kb=3948 exit=0
+PASS type=p3t raw_valid=6320 affine_orbits=49 dfs_nodes=1977849 seconds=0.256119
+TIME type=p3t wall=0.26 maxrss_kb=3808 exit=0
+PASS type=p4d raw_valid=35840 affine_orbits=228 dfs_nodes=24644995 seconds=2.64252
+TIME type=p4d wall=2.65 maxrss_kb=3820 exit=0
+PASS type=p4td raw_valid=24800 affine_orbits=161 dfs_nodes=13468459 seconds=1.60253
+TIME type=p4td wall=1.61 maxrss_kb=3820 exit=0

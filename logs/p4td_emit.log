@@ -1,0 +1,18 @@
+c config=10/161 nodes_total=917160 bytes=917252 sec=4.92015
+c config=20/161 nodes_total=2056720 bytes=2056892 sec=11.6879
+c config=30/161 nodes_total=3255905 bytes=3256157 sec=17.8348
+c config=40/161 nodes_total=4415415 bytes=4415747 sec=23.8636
+c config=50/161 nodes_total=5373900 bytes=5374312 sec=28.8716
+c config=60/161 nodes_total=6499010 bytes=6499502 sec=33.7823
+c config=70/161 nodes_total=7770545 bytes=7771117 sec=41.0353
+c config=80/161 nodes_total=9086930 bytes=9087582 sec=48.1176
+c config=90/161 nodes_total=10716315 bytes=10717047 sec=56.3408
+c config=100/161 nodes_total=11692800 bytes=11693612 sec=60.011
+c config=110/161 nodes_total=12764010 bytes=12764902 sec=62.798
+c config=120/161 nodes_total=14089320 bytes=14090292 sec=65.6902
+c config=130/161 nodes_total=15340280 bytes=15341332 sec=68.9319
+c config=140/161 nodes_total=16641315 bytes=16642447 sec=72.2352
+c config=150/161 nodes_total=17719700 bytes=17720912 sec=75.2045
+c config=160/161 nodes_total=18801935 bytes=18803227 sec=78.0185
+c config=161/161 nodes_total=18897016 bytes=18898316 sec=78.2232
+TIME=78.25 RSS=3960

@@ -1,0 +1,34 @@
+{
+  "problem_ref": "P2624",
+  "canonical_statement": "https://theoremdb.org/statements/b2-two-set-z100/",
+  "claim": "The maximum size is 13.",
+  "exact_maximum": 13,
+  "witness_13": [0, 5, 7, 31, 58, 61, 62, 63, 72, 80, 84, 91, 97],
+  "witness_ordered_difference_histogram": {
+    "multiplicity_0": 5,
+    "multiplicity_1": 32,
+    "multiplicity_2": 62
+  },
+  "no_14_certificate": {
+    "format": "P2624T1 exhaustive lift tree",
+    "catalog_files": 7,
+    "raw_admissible_mod20_occupancies": 204360,
+    "affine_quotient_orbits": 1341,
+    "static_tree_nodes": 299903736,
+    "checker_source": "check_lift_tree.cpp",
+    "format_specification": "CERTIFICATE_FORMAT.md",
+    "verification_status": "All seven static trees independently verified"
+  },
+  "symmetry_reductions": [
+    {
+      "name": "affine canonicalization of the mod-20 occupancy vector",
+      "action": "r -> u*r + c (mod 20)",
+      "units": [1, 3, 7, 9, 11, 13, 17, 19],
+      "translations": "c in Z/20Z",
+      "lift_to_Z100": "x -> u*x + c (mod 100)",
+      "justification": "Every listed u is a unit modulo 100, so the lifted affine map is a bijection and permutes ordered nonzero differences. The B_2[2] property is preserved. One canonical occupancy representative is retained per orbit."
+    }
+  ],
+  "lift_level_symmetry_reductions": [],
+  "notes": "The final certified route does not fix 0 in A. MRV and mask ordering are search heuristics, not symmetry reductions or trusted proof rules."
+}

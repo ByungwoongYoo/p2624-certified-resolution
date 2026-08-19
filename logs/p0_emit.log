@@ -1,0 +1,5 @@
+c config=10/39 nodes_total=6640660 bytes=6640752 sec=21.1404
+c config=20/39 nodes_total=12683870 bytes=12684042 sec=40.1484
+c config=30/39 nodes_total=19071655 bytes=19071907 sec=61.4549
+c config=39/39 nodes_total=24179709 bytes=24180033 sec=81.522
+TIME=81.54 RSS=3964

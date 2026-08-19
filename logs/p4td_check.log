@@ -1,0 +1,18 @@
+c verified config=10/161 nodes=917160 sec=1.76543
+c verified config=20/161 nodes=2056720 sec=4.10884
+c verified config=30/161 nodes=3255905 sec=6.22073
+c verified config=40/161 nodes=4415415 sec=8.37152
+c verified config=50/161 nodes=5373900 sec=10.3703
+c verified config=60/161 nodes=6499010 sec=12.8923
+c verified config=70/161 nodes=7770545 sec=15.0964
+c verified config=80/161 nodes=9086930 sec=17.2155
+c verified config=90/161 nodes=10716315 sec=18.7154
+c verified config=100/161 nodes=11692800 sec=19.5213
+c verified config=110/161 nodes=12764010 sec=20.4666
+c verified config=120/161 nodes=14089320 sec=21.7792
+c verified config=130/161 nodes=15340280 sec=22.9211
+c verified config=140/161 nodes=16641315 sec=24.1755
+c verified config=150/161 nodes=17719700 sec=25.1093
+c verified config=160/161 nodes=18801935 sec=26.1563
+c verified config=161/161 nodes=18897016 sec=26.2938
+TIME=26.31 RSS=3964

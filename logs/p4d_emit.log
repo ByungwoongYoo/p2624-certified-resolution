@@ -1,0 +1,24 @@
+c config=10/228 nodes_total=1109660 bytes=1109752 sec=2.56533
+c config=20/228 nodes_total=2337495 bytes=2337667 sec=5.30718
+c config=30/228 nodes_total=3706580 bytes=3706832 sec=8.9628
+c config=40/228 nodes_total=4870840 bytes=4871172 sec=12.0404
+c config=50/228 nodes_total=6104200 bytes=6104612 sec=15.1364
+c config=60/228 nodes_total=7143910 bytes=7144402 sec=17.979
+c config=70/228 nodes_total=8377070 bytes=8377642 sec=20.9605
+c config=80/228 nodes_total=9502030 bytes=9502682 sec=24.1908
+c config=90/228 nodes_total=10526040 bytes=10526772 sec=26.7996
+c config=100/228 nodes_total=11882200 bytes=11883012 sec=29.7685
+c config=110/228 nodes_total=13166635 bytes=13167527 sec=32.5031
+c config=120/228 nodes_total=14437745 bytes=14438717 sec=35.6897
+c config=130/228 nodes_total=15582180 bytes=15583232 sec=38.8545
+c config=140/228 nodes_total=16829715 bytes=16830847 sec=42.3638
+c config=150/228 nodes_total=17967650 bytes=17968862 sec=45.4845
+c config=160/228 nodes_total=19303110 bytes=19304402 sec=48.6117
+c config=170/228 nodes_total=20422120 bytes=20423492 sec=51.0046
+c config=180/228 nodes_total=21610405 bytes=21611857 sec=53.9715
+c config=190/228 nodes_total=22846840 bytes=22848372 sec=57.3689
+c config=200/228 nodes_total=24041725 bytes=24043337 sec=60.5522
+c config=210/228 nodes_total=25189675 bytes=25191367 sec=63.3426
+c config=220/228 nodes_total=26690910 bytes=26692682 sec=66.6745
+c config=228/228 nodes_total=27482183 bytes=27484019 sec=68.4802
+TIME=68.50 RSS=3964

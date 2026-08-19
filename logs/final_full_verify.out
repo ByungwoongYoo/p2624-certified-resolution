@@ -1,0 +1,19 @@
+PASS manifest: 68 files
+PASS 13-point witness: max multiplicity=2, histogram 0:5 1:32 2:62
+PASS type=p0 raw_valid=5100 affine_orbits=39 dfs_nodes=119604 seconds=0.0510781
+PASS type=p1 raw_valid=19860 affine_orbits=133 dfs_nodes=2035446 seconds=0.38534
+PASS type=p2 raw_valid=52680 affine_orbits=344 dfs_nodes=10540311 seconds=1.5311
+PASS type=p3d raw_valid=59760 affine_orbits=387 dfs_nodes=23544276 seconds=2.82331
+PASS type=p3t raw_valid=6320 affine_orbits=49 dfs_nodes=1977849 seconds=0.310957
+PASS type=p4d raw_valid=35840 affine_orbits=228 dfs_nodes=24644995 seconds=2.71375
+PASS type=p4td raw_valid=24800 affine_orbits=161 dfs_nodes=13468459 seconds=1.72627
+PASS quotient coverage: all seven catalogs independently enumerated
+s VERIFIED exhaustive lift-tree certificate configs=39 nodes=24179709 seconds=13.3245
+s VERIFIED exhaustive lift-tree certificate configs=133 nodes=55614223 seconds=35.4268
+s VERIFIED exhaustive lift-tree certificate configs=344 nodes=86217164 seconds=60.3278
+s VERIFIED exhaustive lift-tree certificate configs=387 nodes=77335947 seconds=55.6243
+s VERIFIED exhaustive lift-tree certificate configs=49 nodes=10177494 seconds=5.96563
+s VERIFIED exhaustive lift-tree certificate configs=228 nodes=27482183 seconds=19.1577
+s VERIFIED exhaustive lift-tree certificate configs=161 nodes=18897016 seconds=12.2842
+PASS exhaustive certificate: 1,341 quotient cases; 299,903,736 proof-tree nodes
+CONCLUSION: no 14-point set exists; the exact maximum is 13

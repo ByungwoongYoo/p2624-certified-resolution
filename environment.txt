@@ -1,0 +1,4 @@
+Generated: 2026-08-19
+Linux 42927f818ac3 6.18.35 #1 SMP Mon Jul 27 18:07:50 UTC 2026 x86_64 GNU/Linux
+g++ (Debian 14.2.0-19) 14.2.0
+Python 3.13.5

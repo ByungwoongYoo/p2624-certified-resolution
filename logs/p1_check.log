@@ -1,0 +1,15 @@
+c verified config=10/133 nodes=4451060 sec=2.84164
+c verified config=20/133 nodes=8742570 sec=5.87256
+c verified config=30/133 nodes=13419330 sec=8.89496
+c verified config=40/133 nodes=17459265 sec=11.6211
+c verified config=50/133 nodes=21545650 sec=14.3272
+c verified config=60/133 nodes=26241235 sec=17.4529
+c verified config=70/133 nodes=30408120 sec=19.9927
+c verified config=80/133 nodes=34410005 sec=22.3479
+c verified config=90/133 nodes=38851615 sec=25.1493
+c verified config=100/133 nodes=42710550 sec=27.567
+c verified config=110/133 nodes=47125335 sec=30.1827
+c verified config=120/133 nodes=51255670 sec=33.0769
+c verified config=130/133 nodes=54389930 sec=35.3651
+c verified config=133/133 nodes=55614223 sec=36.1363
+TIME=36.15 RSS=4028
