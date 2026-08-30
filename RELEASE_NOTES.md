@@ -4,6 +4,17 @@ This release contains the static exhaustive certificate supporting the result
 
 > No 14-element subset of `Z/100Z` has every nonzero ordered difference occurring at most twice. The exact maximum cardinality is 13.
 
+## Prior Work and Attribution
+
+Prior computational records `R5662` and `R5664` by **Byungwoong Yoo**
+document the earlier computational result for P2624, including the explicit
+13-point witness included in this release; the associated evidence release is
+archived at
+[DOI 10.5281/zenodo.21988177](https://doi.org/10.5281/zenodo.21988177).
+
+This release separately packages the static `P2624T1` proof-tree certificate
+and verifier for the upper bound.
+
 ## Release asset
 
 - Asset: `P2624_certified_resolution.zip`
