@@ -12,6 +12,18 @@ This package upgrades the earlier deterministic exhaustion into a **static,
 independently checkable exhaustive certificate** and explicitly states every
 symmetry reduction used.
 
+## Prior Work and Attribution
+
+Prior computational records `R5662` and `R5664` by **Byungwoong Yoo**
+document the earlier computational result for P2624, including the explicit
+13-point witness used here; the associated evidence release is archived at
+[DOI 10.5281/zenodo.21988177](https://doi.org/10.5281/zenodo.21988177).
+
+This repository separately supplies the static `P2624T1` proof-tree
+certificate and independent checker for the upper bound. This attribution does
+not imply that the earlier records contained this repository's certificate,
+verifier, or proof-tree artifacts.
+
 ## 1. Claim and 13-point witness
 
 A valid set of size 13 is
