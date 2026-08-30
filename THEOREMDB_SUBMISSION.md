@@ -16,6 +16,17 @@ A valid 13-set is
 
 There is no valid 14-set.
 
+## Prior Work and Attribution
+
+Prior computational records `R5662` and `R5664` by **Byungwoong Yoo**
+document the earlier computational result for P2624, including the explicit
+13-point witness stated above; the associated evidence release is archived at
+[DOI 10.5281/zenodo.21988177](https://doi.org/10.5281/zenodo.21988177).
+
+This submission separately supplies the static `P2624T1` proof-tree
+certificate and verifier for the nonexistence of a 14-set. This attribution
+does not claim that `R5662` or `R5664` contained those certificate artifacts.
+
 ## Upper-bound certificate
 
 Project a hypothetical 14-set `A subset Z/100Z` modulo 20 and write
